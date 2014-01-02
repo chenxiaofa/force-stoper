@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="hello_activity_text_text">Hello, World!</string>
+    <string name="APP_NAME">强制停止应用</string>
+    <string name="setlist">设置程序名单</string>
+    <string name="forcestop">强制停止应用运行</string>
+    <string name="showSysApp">显示系统应用</string>
+    <string name="hideSysApp">隐藏系统应用</string>
+    <string name="dialogTitle">Force-Stop</string>
+    <string name="dialogbtngo">GO</string>
+    <string name="dialogbtnset">设置</string>
+    <string name="dialogcontent">点击GO马上强制关闭多余程序，点击设置可以设置需要关闭的程序。</string>
+    <string name="processing">正在处理，请稍后……</string>
+</resources>
